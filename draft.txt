@@ -61,6 +61,8 @@ Access (mdb object) の、 mdb, tables
 MySQL の、 tables
 Word の、 見出し付き複数の表、ないしは、見出しと本文と段落
 Google doc spreadsheet の、 表
+json 形式
+powershellのHash, Array
 
 を、簡単に対応させることを、目標とする。
 
